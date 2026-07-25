@@ -17,6 +17,18 @@ In these respects, Plainbook is inspired by [Marimo](https://marimo.io/), while 
 The goal of the project is to replicate in natural language what made Jupyter so successful: sharing code and results together, so that any recipient can validate and modify what they receive. 
 Recipients can check that the generated code implements the natural-language tasks, and can edit the Plainbook, regenerate the code, and rerun it — just as in Jupyter or Marimo.
 
+## Installation
+
+```bash
+pip install plainbook
+```
+
+Once installed, you can work on a Plainbook `my_plainbook.plb` via: 
+
+```bash
+plainbook my_plainbook.plb
+```
+
 ## Repositories
 
 * [plainbook](https://github.com/plainbook-ai/plainbook): The main Plainbook code base.
