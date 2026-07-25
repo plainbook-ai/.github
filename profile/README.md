@@ -11,8 +11,10 @@ They differ in these ways:
 
 * **Linear semantics.** Cells execute strictly in order — the same order in which a human reads the natural-language description of the computation.
 * **Dependency tracking.** Code analysis determines what a change actually affects, so only a minimal portion of the Plainbook is regenerated or re-executed.
+* **Test cells.** Plainbook lets you test that individual cells implement their natural language descriptions via natural-language tests and data inspection. 
 
-In these respects, Plainbook is inspired by [Marimo](https://marimo.io/), while being based on natural language. 
+Linear semantics and dependency tracking are inspired by [Marimo](https://marimo.io/). 
+The ability to test cells hinges on natural language and on the special [snapshot-kernel](https://plainbook-ai/snapshot-kernel/) underlying Plainbook. 
 
 The goal of the project is to replicate in natural language what made Jupyter so successful: sharing code and results together, so that any recipient can validate and modify what they receive. 
 Recipients can check that the generated code implements the natural-language tasks, and can edit the Plainbook, regenerate the code, and rerun it — just as in Jupyter or Marimo.
