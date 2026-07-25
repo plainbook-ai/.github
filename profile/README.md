@@ -1,10 +1,10 @@
 # The Plainbook Project
 
 A Plainbook is a computational notebook, written in natural language rather than code. 
-It lets you share your data analysis and science with a much wider audience, including people who don't know how to code.
 
-Normally you'd generate a notebook with AI and then keep the code, discarding the natural language that produced it. 
+Normally you would generate a notebook with AI and then keep the code, discarding the natural language that produced it. 
 Plainbook keeps the language instead: the code is generated and executed automatically, and can be validated and tested through natural language and data inspection — no coding knowledge required.
+This lets you share your data analysis and science with a much wider audience, including people who don't know how to code.
 
 Plainbooks resemble [Jupyter notebooks](https://jupyter.org/), in that they combine instructions and results in a single shareable document. 
 They differ in these ways:
