@@ -24,6 +24,6 @@ Recipients can check that the generated code implements the natural-language tas
 
 ## Resources
 
-* [Initial Plainbook paper]([paper](https://arxiv.org/abs/2607.05717)
+* [Initial Plainbook paper](https://arxiv.org/abs/2607.05717)
 * [Pypi package](https://pypi.org/project/plainbook/)
 * [Development mailing list](https://groups.google.com/g/plainbook)
