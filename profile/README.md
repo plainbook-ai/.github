@@ -29,6 +29,8 @@ Once installed, you can work on a Plainbook `my_plainbook.plb` via:
 plainbook my_plainbook.plb
 ```
 
+You can use both cloud models and local models to generate code.  For more details, see the [Plainbook README file](https://github.com/plainbook-ai/plainbook/blob/main/README.md).
+
 ## Repositories
 
 * [plainbook](https://github.com/plainbook-ai/plainbook): The main Plainbook code base.
