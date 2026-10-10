@@ -6,6 +6,8 @@ Normally you would generate a notebook with AI and then keep the code, discardin
 Plainbook keeps the language instead: the code is generated and executed automatically, and can be validated and tested through natural language and data inspection — no coding knowledge required.
 This lets you share your data analysis and science with a much wider audience, including people who don't know how to code.
 
+Here is [mini slide-deck](https://docs.google.com/presentation/d/1JWBUbjJfWddjvIyNbIwKfadAbxfIANUY8eetD7P2CYY/edit?usp=sharing) on Plainbook. 
+
 Plainbooks resemble [Jupyter notebooks](https://jupyter.org/), in that they combine instructions and results in a single shareable document. 
 They differ in these ways:
 
